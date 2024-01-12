@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "768908618063",
+    "project_id": "improvedchess",
+    "storage_bucket": "improvedchess.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768908618063:android:729ac7626999e6f266fd3a",
+        "android_client_info": {
+          "package_name": "sunghyeon.manse.improvedchess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768908618063-hqn49a28mr7g6qd8q9e3fc83ch2puj9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhbUj5iOD3PDhXTZFTxwi3CaMSrckUBNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768908618063-hqn49a28mr7g6qd8q9e3fc83ch2puj9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
